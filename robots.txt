@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oriontravels.netlify.app/sitemap1.xml
+
